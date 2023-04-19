@@ -1,2 +1,2 @@
 # MSRENet
-MSRENet: A Multi-scale ResNet Network with Expert Features for ECG Classification
+MSRENet: A Multi-scale Residual Network with Expert Features for ECG Classification
